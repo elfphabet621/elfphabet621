@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨 !
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
-<!--
-**elfphabet621/elfphabet621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :credit_card: My full name is **Ngo Nguyen Nhat Ha**
+- 🔭 I'm currently learning/working on **DS 𝚊𝚗𝚍 AI research + engineer**  
+- ⚡ Languages: Python3, C/C++
+
+-----
+
+## Github Stats
+<br/>
+<p align="center">
+  <img alt="Elfphabet Stats" src="https://github-readme-stats.vercel.app/api?username=elfphabet621&theme=gruvbox&show_icons=true" height="192px"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfphabet621&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" height="192px"/>
+<br/>
+</p>
+
+-----
+
+## Github Streak
+<br/>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=elfphabet621&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="192px"/>
+<br/>
+</p>
+
+----- 
